@@ -1,0 +1,1 @@
+- list shares: nxc smb $IP -u $USER -p $PASS --shares
