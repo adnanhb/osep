@@ -1,1 +1,2 @@
 - list shares: nxc smb $IP -u $USER -p $PASS --shares
+- list tasks: nxc smb $IP -u $USER -p $PASS --tasklist
