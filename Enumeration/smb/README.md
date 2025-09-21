@@ -1,3 +1,0 @@
-- list shares: nxc smb $IP -u $USER -p $PASS --shares
-- list tasks: nxc smb $IP -u $USER -p $PASS --tasklist
-- list all files of a share: nxc smb $IP -u $USER -p $PASS -M spider_plus --share 'Department Shares'
